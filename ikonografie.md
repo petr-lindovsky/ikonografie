@@ -89,7 +89,7 @@ Renesance nepřerušuje křesťanskou ikonografii – naopak ji obohacuje tím, 
 - *Návrat antického naturalismu:* Postavy mají objem, váhu, emoce. Kristus, Marie i apoštolové vypadají jako skuteční lidé – Masaccio, Leonardo, Michelangelo studují anatomii, aby zpřestnili zobrazení těla. Tím paradoxně zesilují účinek utrpení (Ukřižovaný bolí víc, když je tělo reálné).
 - *Perspektiva jako teologický nástroj:* Lineární perspektiva (Brunelleschi, Alberti) umožňuje vybudovat věrohodný prostor. [Poslední večeře](https://cs.wikipedia.org/wiki/Posledn%C3%AD_ve%C4%8De%C5%99e_(da_Vinci)) Leonarda da Vinci (1495–1498) není jen ikonografické schéma – je to dramatická scéna s psychologickými portréty dvanácti apoštolů v okamžiku Kristova sdělení „jeden z vás mě zradí".
 - *Humanismus a neoplatonismus:* Florentská akademie (Ficino, Pico della Mirandola) čte křesťanství skrze Platóna – krása je odlesk božského. Proto Botticelliho andělé vypadají jako antičtí bohové a [Michelangelův David](https://en.wikipedia.org/wiki/David_(Michelangelo)) spojuje hebrejského hrdinu s řeckým atletem.
-- *Ikonografické programy:* Renesanční mecenáši (papežové, Medicejové) zadávají složité obrazové programy kombinující Bibli, antiku a alegorii. [Sixtinská kaple](https://cs.wikipedia.org/wiki/Sixtinsk%C3%A1_kaple) (Michelangelo, 1508–1512) je vrcholem: strop vypráví Starý zákon od Stvoření po Noeho, lunety a tympanony předkové Krista, oltářní stěna Poslední soud (1536–1541).
+- *Ikonografické programy:* Renesanční mecenáši (papežové, Medicejové) zadávají složité obrazové programy kombinující Bibli, antiku a alegorii. [Sixtinská kaple](https://cs.wikipedia.org/wiki/Sixtinsk%C3%A1_kaple) (Michelangelo, 1508–1512) je vrcholem: strop vypráví Starý zákon od Stvoření po Noema, lunety a tympanony předkové Krista, oltářní stěna Poslední soud (1536–1541).
 - *Reformace a reakce:* Martin Luther (1517) a protestantská reformace odmítají obrazy jako modloslužbu – v severní Evropě dochází k obrazoborectví (ikonoklasmus 16. stol.). Katolická církev odpovídá Tridentským koncilem (1545–1563): obrazy jsou povoleny, ale musí být dogmaticky správné a srozumitelné. Tím nastupuje **baroko** jako nástroj protireformační propagandy.
 
 ---
@@ -119,7 +119,16 @@ Renesance nepřerušuje křesťanskou ikonografii – naopak ji obohacuje tím, 
 
 **Starozákonní motivy** – křesťanské umění čte Starý zákon jako předobraz (*typus*) Nového: Adam a Eva = pád a potřeba vykoupení; Abraham a Izák = prefigurace oběti Krista; Jonáš ve velrybě tři dny = Kristus tři dny v hrobě; had na tyči (Mojžíš na poušti) = ukřižování. [Sixtinská kaple](https://cs.wikipedia.org/wiki/Sixtinsk%C3%A1_kaple) (Michelangelo, 1508–1512) je encyklopedickým programem starozákonní ikonografie od Stvoření po Potopu.
 
-**Apokalypsa** – Zjevení Janovo je nejobrazovější kniha Bible: čtyři jezdci na koních (mor, válka, hlad, smrt), sedmihlavá šelma, Nevěstka babylonská, Žena oděná sluncem. [Dürerovy dřevořezy](https://cs.wikipedia.org/wiki/Apokalypsa_(Albrecht_D%C3%BCrer)) (1498) jsou kanonickým vizuálním ztvárněním – dynamické, plné pohybu a hrůzy. Apokalyptická ikonografie zažívá obrození v dobách krize (mor, války) a v současném umění slouží jako jazyk politické katastrofy.
+**Apokalypsa** – řecky *apokalypsis* = odhalení, zjevení. Poslední kniha Nového zákona, *Zjevení Janovo* (sepsáno kolem r. 95 n. l.), popisuje ve vizionářském jazyce konec světa, Boží soud a nastolení nového království. Je nejobrazovější knihou Bible – každá kapitola přináší nové symboly, postavy a výjevy, které malíři, sochaři a grafici zpracovávali po celá staletí.
+
+Klíčové postavy a jejich ikonografický smysl:
+
+- **Čtyři apokalyptičtí jezdci** (Zj 6) – čtyři jezdci na koních různých barev, každý přináší jednu pohromu: bílý kůň = dobývání (nebo mor), rudý = válka, černý = hlad, bledý/zelený = smrt. Jsou nejznámějším apokalyptickým motivem, zobrazovaným od středověku po současnost.
+- **Sedmihlavá šelma** (Zj 13) – netvor vystupující z moře, s deseti rohy a sedmi hlavami, každá s rouháním. Označuje říši zla a pronásledování – v prvokřesťanském kontextu narážka na Řím a císařský kult, v pozdějších dobách přečítána jako symbol každé totalitní moci. Číslo 666 (číslo šelmy) se stalo trvalým symbolem démonie a antikrista.
+- **Nevěstka babylonská** (Zj 17) – žena sedící na šelmě, oděná v purpuru a šarlatu, s číší plnou ohavností. Představuje město/říši bezbožnosti a svůdnosti (opět původně Řím). Ikonograficky je zobrazována jako přepychová a zhýralá postava – opak Panny Marie. V reformační době ji protestanti ztotožňovali s papežstvím.
+- **Žena oděná sluncem** (Zj 12) – žena stojí na měsíci, kolem hlavy má věnec z dvanácti hvězd, je těhotná a pronásledována drakem. Původně symbol Izraele nebo církve, v katolické tradici ztotožněna s Pannou Marií (→ *Immaculata*, *Assumpta*). Jeden z nejsilnějších přechodů mezi apokalyptickou a mariánskou ikonografií.
+
+[Dürerovy dřevořezy](https://cs.wikipedia.org/wiki/Apokalypsa_(Albrecht_D%C3%BCrer)) (1498) jsou kanonickým vizuálním ztvárněním – dynamické, plné pohybu a hrůzy. Apokalyptická ikonografie zažívá obrození v dobách krize (mor, války) a v současném umění slouží jako jazyk politické katastrofy.
 
 Mnohé motivy přecházejí z jednoho věku do druhého a proměňují se v závislosti na teologii, politice a estetice doby.
 
@@ -136,6 +145,16 @@ Ve 20. a 21. století umělci s křesťanskou ikonografií pracují různě:
 
 Humanistická fotografie 20. stol. (Cartier-Bresson, Lange, Koudelka) neúmyslně i vědomě recykluje křesťanská ikonografická schémata – matka s dítětem, oběť, svědek, komunita.
 
+### Detaily
+
+**Citace a transformace:** Andy Warhol v sérii [*Last Supper*](https://en.wikipedia.org/wiki/The_Last_Supper_(Warhol)) (1986–87) reprodukuje Leonardovu kompozici sítotiskem – opakováním a zplošťováním ikony ji staví naroveň reklamnímu obrazu. Nejde o blasfémii, ale o diagnózu: posvátno a zboží se v konzumní kultuře vzájemně prostupují. Salvador Dalí v [*Corpus Hypercubus*](https://en.wikipedia.org/wiki/Crucifixion_(Corpus_Hypercubus)) (1954) zobrazuje Krista ukřižovaného na rozvinutém čtyřrozměrném kříži (hyperkrychli) – věda a mystika jako dvě cesty k transcendenci.
+
+**Kritika a provokace:** Andres Serrano v [*Piss Christ*](https://en.wikipedia.org/wiki/Piss_Christ) (1987) ponořil plastový krucifix do sklenice vlastní moči a nafotil ho – výsledek je paradoxně zlatavě krásný obraz. Serrano tvrdí, že dílo kritizuje komercionalizaci a zlevňování křesťanských symbolů, ne víru samu. Fotografie vyvolala mezinárodní skandál a debatu o hranicích umělecké svobody a veřejném financování umění.
+
+**Identifikace s utrpením – humanistická fotografie:** Dorothea Lange (*Migrant Mother*, 1936) – matka s dětmi zachycená v depresi 30. let je strukturálně totožná s ikonografií Piety nebo Madony s dítětem: žena, bezmoc, ochrana. Sebastião Salgado (*Workers*, 1993; *Genesis*, 2013) fotografuje dělníky a přírodu s epikou připomínající fresky – jeho záběry jsou přečítány jako sekulární hagiografie utrpení a důstojnosti.
+
+**Neosakrální tendence:** [Bill Viola](https://en.wikipedia.org/wiki/Bill_Viola) (*The Passions*, 2000–2002) vytváří pomalé video-instalace inspirované středověkými oltářními triptychy – tváře v extrémním zpomalení procházejí emocemi od klidu po hrůzu. Makoto Fujimura maluje abstraktní ikony kombinující japonskou technikou *nihonga* se zlatem a pigmenty, hledá jazyk pro spirituální zkušenost mimo náboženské dogma.
+
 ---
 
 ## 6. Umělecké projekty reagující na sakrální prostor (cca 2 min)
@@ -149,6 +168,18 @@ Umělci vstupují do kostelů, kaplí a klášterů a konfrontují tradiční pr
 - **Česká scéna:** Skupina Rafani, Jiří Příhoda, projekty v rámci přehlídky Sacrum et Profanum.
 
 Klíčový je dialog: sakrální prostor klade na umělce nároky – citlivost, znalost tradice, ale i odvahu ke kritickému komentáři.
+
+### Detaily
+
+**Matisse – [kaple v Vence](https://en.wikipedia.org/wiki/Chapelle_du_Rosaire_de_Vence) (1951):** Henri Matisse navrhl dominikánskou kapli v Nice-Vence jako celek – architekturu, vitráže (tři barvy: žlutá/slunce, zelená/příroda, modrá/moře a nebe), keramické nástěnné malby (sv. Dominik, sv. Veronika, Křížová cesta) i liturgická roucha. Matisse byl tehdy ateista; přesto považoval kapli za své nejlepší dílo. Jde o příklad, kdy moderní formální jazyk (plošnost, barva, linie) plně slouží sakrálnímu obsahu.
+
+**Mark Rothko – [Rothko Chapel](https://en.wikipedia.org/wiki/Rothko_Chapel), Houston (1971):** Čtrnáct velkých nefigurativních pláten v různých odstínech černé visí v osmiúhelníkové kapli bez denominace – přístupné všem náboženstvím. Rothko odmítl tradiční religiózní ikonografii a nahradil ji absolutní redukcí: barva, světlo, ticho. Kaple funguje jako meditativní prostor a zároveň centrum pro mezináboženský dialog a lidská práva. Rothko se nedožil otevření – zemřel roku 1970.
+
+**[Bill Viola](https://en.wikipedia.org/wiki/Bill_Viola) – instalace v katedrálách:** Viola vytváří video-díla přímo pro konkrétní katedrály (Durham, Salisbury, sv. Pavel v Londýně). Video-triptychy jako *Martyrs* (2014) zobrazují postavy ve čtyřech živlech (zemí, vodou, ohněm, vzduchem) jako moderní hagiografii. Gotické okno a videoobrazovka vedle sebe otevírají otázku: co je dnes médiem pro posvátné?
+
+**Alfredo Jaar, Krzysztof Wodiczko:** Wodiczko promítá obří tváře a výpovědi přeživších (válka, trauma, chudoba) na fasády kostelů a veřejných budov – sakrální architektura se stává plátnem pro svědectví, které jinak nemá hlas. Jaar podobně pracuje se světlem a fotografií jako nástrojem politické paměti.
+
+**Česká scéna:** Skupina Rafani provokuje přímočarými gesty v sakrálním prostoru (přemalování ikony, vlajka na oltáři). Jiří Příhoda instaluje minimalistické objekty do kostelů, které pracují s prázdnem a tichem. Přehlídka *Sacrum et Profanum* v Olomouci systematicky propojuje soudobé umění se sakrálními prostory diecéze.
 
 ---
 
