@@ -6,7 +6,7 @@
 
 Ikonografie je věda o obrazovém obsahu výtvarných děl – zabývá se tím, **co je na obraze zobrazeno** a co to znamená. Termín pochází z řeckého *eikon* (obraz) a *graphein* (psát/popisovat).
 
-Rozlišujeme tři úrovně analýzy (Erwin Panofsky, německý historik, 1892-1968):
+Rozlišujeme tři úrovně analýzy (Erwin Panofsky, německý-americký historik umění, 1892-1968):
 1. **Pre-ikonografický popis** – co vidíme (člověk, strom, drak).
 2. **Ikonografická analýza** – identifikace námětů a příběhů (sv. Jiří zabíjí draka).
 3. **Ikonologická interpretace** – hlubší kulturní a symbolický smysl díla.
@@ -127,7 +127,7 @@ Renesance nepřerušuje křesťanskou ikonografii – naopak ji obohacuje tím, 
 
 **Ecce homo** – latinský citát Piláta Pontského: „Hle, člověk" (Jan 19,5). Kristus stojí po zbičování s trnovou korunou, v purpurovém plášti a s rákosovou holí – vystavený davu před rozsudkem. Motiv se rozvíjí v pozdní gotice a renesanci jako médium empatie: divák je postaven do role davu a musí se rozhodnout. [Hieronymus Bosch](https://en.wikipedia.org/wiki/Ecce_Homo_(Bosch,_Frankfurt)) (cca 1490) zobrazuje Krista obklopeného groteskními tvářemi; [Tizian](https://en.wikipedia.org/wiki/Ecce_Homo_(Titian,_Vienna)) (1543) zdůrazňuje vznešenou důstojnost trpícího; Georges Rouault (20. stol.) ho převádí do expresionistického jazyka silných obrysů a temných barev.
 
-**Pieta** – italsky „zbožnost, soucit". Panna Marie drží na klíně tělo mrtvého Krista po sejmutí z kříže. Motiv vzniká v německém a francouzském prostředí 14. století (*Vesperbild*) a vrcholí Michelangelovými mramorovými sochami: [vatikánská Pieta](https://cs.wikipedia.org/wiki/Pieta_(Michelangelo)) (1499, Kristus jako ideální tělo, Marie nadpřirozeně mladá) a [florentská Pieta](https://en.wikipedia.org/wiki/The_Deposition_(Michelangelo)) (nedokončená, dramatická, Michelangelo se v ní zpodobnil jako Nikodém). Motiv je silný proto, že spojuje dvě krajní polohy: smrt a mateřskou lásku.
+**Pieta** – italsky „zbožnost, soucit". Panna Marie drží na klíně tělo mrtvého Krista po sejmutí z kříže. Motiv vzniká v středoevropském prostředí 14. století (*Vesperbild*) a vrcholí Michelangelovými mramorovými sochami: [vatikánská Pieta](https://cs.wikipedia.org/wiki/Pieta_(Michelangelo)) (1499, Kristus jako ideální tělo, Marie nadpřirozeně mladá) a [florentská Pieta](https://en.wikipedia.org/wiki/The_Deposition_(Michelangelo)) (nedokončená, dramatická, Michelangelo se v ní zpodobnil jako Nikodém). Motiv je silný proto, že spojuje dvě krajní polohy: smrt a mateřskou lásku.
 
 **Panna Marie** – nejbohatší a nejproměnlivější ikonografický typ. Základní varianty: *Theotokos* (Bohorodička) – byzantská ikona s dítětem, přísná a frontální; *Madona s dítětem* – intimnější, gotická a renesanční verze (Raphael, Cranach); *Immaculata* (Neposkvrněné početí) – Marie stojí na půlměsíci, obklopená sluncem a hvězdami (Zj 12,1), typická pro barokní Španělsko (Murillo); *Černá Madonna* – tmavé ikony s výraznými kultovními místy (Montserrat, Čenstochová, Svatá Hora u Příbrami).
 
