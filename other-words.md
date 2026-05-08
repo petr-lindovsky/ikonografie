@@ -4,7 +4,7 @@
 - **Bateau Lavoir** (bató lavuár)
 - **Bonjour, Monsieur Gauguin** (bonžúr mesjé gogén)
 - **Brancaccio** (brankačo)
-- **Corps Étranger** (kór etranžé, znamená to Cizí těla)
+- **Corps Étranger** (kór etranžé, znamená to Cizí tělo)
 - **De Stijl** (d stejl)
 - **Düsenjäger** (dýzenjégr, znamená to stíhací tryskové letadlo)
 - **Düsseldorf** (dyseldorf)
