@@ -430,7 +430,7 @@
 - **Wilhelm Lehmbruck** (lémbruk)
 - **Wilhelm Worringer**
 - **Willem de Kooning** (původně holandsky kóning), americky kúning))
-- **William Henry Fox Talbot** (tálbot)
+- **William Henry Fox Talbot** (tólbot)
 - **William Seitz** (sajc)
 - **William Turner**
 - **Wolf Vostell** (volf fostel)
