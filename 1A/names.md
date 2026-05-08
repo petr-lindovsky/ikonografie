@@ -1,0 +1,273 @@
+- **Aaron Siskind** (siskind)
+- **Ad Reinhardt** (rajnhart)
+- **Adolf Loos** (lós)
+- **Agnes Martin** (egnes martin)
+- **Aj Wej-Wej** (toto je český přepis, čti jak psáno, anglický přepis je Ai Weiwei)
+- **Albert Renger-Patzsch** (pač)
+- **Alberto Giacometti** (džakometi)
+- **Alexander Archipenko** (archypenko)
+- **Alexander Calder** (kólder)
+- **Alexander Hackenschmied** (hakenšmíd)
+- **Alina Szapocznikow** (alína šapočnikov)
+- **Allan Kaprow** (keprou)
+- **Andrea Mantegna** (manteňa)
+- **Andrea del Verrocchio** (verokjo)
+- **Andreas Gursky** (gursky)
+- **André Breton** (breton)
+- **André Derain** (derén)
+- **Andy Warhol** (wórhol)
+- **Anish Kapoor** (aniš kapúr)
+- **Anselm Kiefer** (kífr)
+- **Antoine Bourdelle** (antuán burdel)
+- **Antoine Pevsner** (antuán pevzner)
+- **Antoni Tàpies** (tapjes)
+- **Aristide Maillol** (majol)
+- **Arnold Böcklin** (böklin)
+- **Asger Jorn** (esgr jórn)
+- **Barbara Hepworth**
+- **Barbara Kruger**
+- **Barnett Newman**
+- **Bernd & Hilla Becher** (bernt hila bechr)
+- **Bill Viola** (vioula)
+- **Bridget Riley**
+- **Bruce Nauman** (naumn)
+- **Candida Höfer**
+- **Caravaggio** (karavadžo)
+- **Carl Andre** (endrei)
+- **Carl G. Jung**
+- **Carolee Schneemann** (kerolí šnímn) (příjmení německého původu vyslovované anglicky)
+- **Carsten Nicolai** (karsten nikolaj)
+- **Christo & Jeanne-Claude** (christo, žan klód)
+- **Chuck Close**
+- **Cindy Sherman**
+- **Claude Monet** (klód mone)
+- **Cleas Oldenburg** (klejz ouldnbɜːrɡ)
+- **Constantin Brâncuși** (brankuši)
+- **Dan Flavin** (flejvin)
+- **Dan Graham**
+- **Daniel-Henry Kahnweiler** (kánvajler)
+- **David Hockney**
+- **David LaChapelle** (lašapel)
+- **Diane Arbus** (árbus)
+- **Diego Velázquez** (velaskes)
+- **Don Eddy**
+- **Donald Judd**
+- **Donatello**
+- **Duane Hanson** (dwein hensn)
+- **Duccio di Buoninsegna** (dučo di buoninseňa)
+- **Edvard Munch** (munk)
+- **Edward Ruscha** (rúšej)
+- **Egon Schiele** (šíle)
+- **El Greco**
+- **El Lisickij**
+- **Emil Nolde**
+- **Enzo Cucchi** (enco kuki)
+- **Eric Fischl** (fišl)
+- **Ernst Ludwig Kirchner** (kirchner)
+- **Federico Díaz**
+- **Felix Gonzalez-Torres**
+- **Ferdinand Fellner**
+- **Ferdinand de Saussure** (d sosýr)
+- **Filippo Brunelleschi** (bruneleski)
+- **Francis Bacon**
+- **Francisco Franco** (fransisko)
+- **Francisco Goya** (fransisko)
+- **Franz Kline** (klajn)
+- **Frida Kahlo** (kálo)
+- **Friedrich Nietzsche** (frýdrych nýče)
+- **Gaetano Previati**
+- **Georg Baselitz** (bazelic)
+- **George Grosz** (georg gros)
+- **George Segal** (sígl)
+- **Georges Braque** (žorž brak)
+- **Georges Mathieu** (žorž matjé)
+- **Georges Seurat** (žorž sera)
+- **Georges de La Tour** (žorž d la túr)
+- **Georgia O'Keeffe** (oukíf)
+- **Gerhard Richter**
+- **Germaine Richier** (žermén rišjé)
+- **Gertrude & Leo Stein** (stajn)
+- **Gian Lorenzo Bernini** (džan lorenco)
+- **Gilbert & George** (gilbert)
+- **Giorgio de Chirico** (džordžo de kýryko)
+- **Giorgione** (džordžóne)
+- **Giotto di Bondone** (džot)
+- **Giovanni Battista della Porta** (džovany)
+- **Giovanni Segantini** (džovany)
+- **Giuseppe Pellizza da Volpedo** (džuzepe pelica)
+- **Gregory Crewdson**
+- **Gustave Courbet** (gystáv kurbe)
+- **Gustave Moreau** (gystaf moró)
+- **Günter Brus** (brús)
+- **Han van Meegeren** (fan mégeren)
+- **Hannah Wilke** (wilki)
+- **Hans Arp**
+- **Hans Hartung**
+- **Henri Matisse** (ánry matys)
+- **Henri de Toulouse-Lautrec** (ánry d tulús-lotrek)
+- **Henry Moore**
+- **Hermann Helmer**
+- **Hermann Nitsch** (nyč) (pozor ne Nitsche)
+- **Hieronymus Bosch** (čte se česky, původně holandsky bos)
+- **Jackson Pollock**
+- **Jacques-Germain Soufflot** (žak žermén suflo)
+- **Jacques-Louis David** (žak luj david)
+- **Jake & Dinos Chapman** (dajnos)
+- **James Ensor**
+- **James Rosenquist** (rouznkwist)
+- **Jan Preisler** (prajsler)
+- **Jan Vermeer van Delft** (jan fermér fan delft)
+- **Jan van Eyck** (fan ejk)
+- **Jasper Johns**
+- **Jean Auguste Dominique Ingres** (žán ógyst dominik éngr)
+- **Jean Dubuffet** (žán dybyfe)
+- **Jean Fautrier** (žán fotrije)
+- **Jean Tinguely** (žán tenglí)
+- **Jean-Baptiste Carpeaux** (žán batist karpó)
+- **Jean-Martin Charcot** (žán martén šarko)
+- **Jean-Michel Basquiat** (žán mišel baskja)
+- **Jeff Koons** (kúnz)
+- **Jeff Wall** (wól)
+- **Jindřich Heisler** (hajsler)
+- **Joan Miró** (žuan miró)
+- **John Baldessari** (bóldesári)
+- **John Chandler**
+- **John Constable**
+- **John Coplans** (koplenz)
+- **John De Andrea** (endrea)
+- **Joseph Beuys** (jozef bojs)
+- **Joseph Kosuth** (džouzef kousút)
+- **Juan Gris** (chuan)
+- **Judy Chicago**
+- **Julian Schnabel** (šnejbl)
+- **June Crespo** (džún krespo)
+- **Jörg Immendorff** (jerg imndorf)
+- **Karel Appel** (apl) (pozor, ne Karl)
+- **Karl Schmidt-Rottluff** (šmit rotluf)
+- **Kazimir Malevič**
+- **Kees van Dongen** (kés fan dongen)
+- **Keith Haring** (hering)
+- **Kiki Smith** (kýky)
+- **Konrad Fischer**
+- **Lawrence Weiner** (vajner)
+- **Le Corbusier** (l korbysjé)
+- **Lee Krasner** (krazner)
+- **Leon Battista Alberti**
+- **Leonardo da Vinci** (vinči)
+- **Louise Bourgeois** (luíz buržua)
+- **Lucian Freud** (lúšn frojd)
+- **Lucio Fontana** (lúčo)
+- **Lucy Lippard**
+- **Ludwig Mies van der Rohe** (mís fan der róe)
+- **László Moholy-Nagy** (lásló mohoj naď)
+- **Man Ray**
+- **Marcel Duchamp** (marsel dyšám)
+- **Maria Lassnig**
+- **Marina Abramović**
+- **Mark Rothko** (rotkou)
+- **Mark Tobey** (touby)
+- **Marlene Dumas** (marlín dymas)
+- **Marshall McLuhan** (lúen)
+- **Martha Rosler** (rózler) (pozor ne Rösler)
+- **Martina Mullaney** (mulény)
+- **Mary Ellen Bute** (bjút)
+- **Masaccio** (mazačo)
+- **Maurice Denis** (moris deni]
+- **Maurice de Vlaminck** (moris d vlamenk)
+- **Max Ernst**
+- **Meret Oppenheim** (meret opnhajm)
+- **Michael Rittstein** (ritštajn)
+- **Michael Snow**
+- **Michal Kindernay** (kindernaj)
+- **Michelangelo Buonarroti** (mikelandželo)
+- **Mimmo Paladino**
+- **Minor White**
+- **Miriam Schapiro**
+- **Nam June Pak** (nám džún pajk)
+- **Nan Goldin**
+- **Naum Gabo** (naum gabo)
+- **Nicolas Bourriaud** (nikola burjó)
+- **Niki de Saint-Phalle** (niki d sén fal)
+- **Nina de Callias** (d kaljas)
+- **Odilon Redon**
+- **Olafur Eliasson**
+- **Orlan** (orlán)
+- **Otto Dix**
+- **Otto Gutfreund** (gutfrojnd)
+- **Otto Placht**
+- **Pablo Picasso**
+- **Paolo Uccello** (učelo)
+- **Paul Cézanne** (pól sezan)
+- **Paul Gauguin** (pól gogén)
+- **Paul Signac** (pól siňak)
+- **Paula Muhr** (múr)
+- **Per Olof Ultvedt**
+- **Peter Paul Rubens** (pétr paul rúbns)
+- **Piero Manzoni** (mandzony)
+- **Piero della Francesca** (frančeska)
+- **Pierre Puvis de Chavannes** (pjér pyvi d šavan)
+- **Pierre Restany** (pjér restany)
+- **Pierre Roy** (pjér rua)
+- **Piet Mondrian** (pít mondrijan)
+- **Pipilotti Rist** (pipiloti rist)
+- **Rachel Whiteread** (wajtríd)
+- **Raffael Santi**
+- **Raoul Dufy** (raul dyfy)
+- **Raymond Duchamp-Villon** (remón dyšám-vijón)
+- **Rembrandt van Rijn** (fan rejn)
+- **René Magritte** (magrit)
+- **Richard Estes** (ričrd estíz)
+- **Richard Hamilton**
+- **Richard Prince** (ričrd prins)
+- **Richard Serra**
+- **Robert & Sonia Delauney** (robér delone)
+- **Robert Indiana**
+- **Robert Mapplethorpe**
+- **Robert Morris**
+- **Robert Motherwell**
+- **Robert Rauschenberg** (raušnbɜːrɡ)
+- **Robert Smithson**
+- **Ron Mueck** (mjúek)
+- **Roy Lichtenstein** (liktnstajn)
+- **Rudolf Schwarzkogler** (švarckogler)
+- **Salvador Dalí**
+- **Sam Taylor-Johnson** (narozená jako Sam Taylor-Wood)
+- **Samuel Fosso** (samyel foso)
+- **Sandro Chia** (kia)
+- **Sarah Charlesworth**
+- **Sebastião Salgado** (sebastyjau salgadu)
+- **Sheila de Bretteville** (d bretvil)
+- **Sherrie Levine** (levín)
+- **Shirin Neshat** (širin nešat)
+- **Sigmar Polke** (zigmar polke)
+- **Sigmund Freud** (frojd)
+- **Simone de Beauvoire** (simon d bovuár)
+- **Sol LeWitt**
+- **Sonia & Robert Delaunay** (robér delone)
+- **Sophie Taeuber-Arp** (sofi tojbr)
+- **Steina & Woody Vasulka** (stajna vasulka) (původně Bohuslav Vašulka)
+- **Stelarc** (stelark)
+- **Tamara Moyzes** (mojzes)
+- **Tapp und Task Kino**
+- **Theo van Doesburg** (fan desburch)
+- **Thomas Ruff** (ruf)
+- **Thomas Struth** (štrút)
+- **Tina Bara** (týna bára)
+- **Tom Wesselmann** (weslmn)
+- **Toyen** (toajen)
+- **Tracey Emin**
+- **Tracey Moffatt** (mofet)
+- **Ulay** (úlaj, zkrácenina vlastního jména Frank Uwe Laysiepen)
+- **Valie Export** (váli export)
+- **Vasilij Kandinskij** (kanďiskij) (anglický přepis: Wassily Kandinsky)
+- **Victor Burgin** (bɜːrdžin)
+- **Victor Vasarely** (vazareli)
+- **Vincent van Gogh** (holandsky fan choch, česky často van gog)
+- **Vladimír Tatlin**
+- **Willem de Kooning** (původně holandsky kóning), americky kúning))
+- **William Turner**
+- **Wolf Vostell** (volf fostel)
+- **Wolfgang Tillmans**
+- **Wols** (vols)
+- **Yves Klein** (iv klén) (zhruba)
+- **Édouard Manet** (eduár mane)
