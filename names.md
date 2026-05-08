@@ -1,6 +1,5 @@
 - **Aaron Siskind** (siskind)
 - **Ad Reinhardt** (rajnhart)
-- **Ad Reinhardt** (rajnhart)
 - **Adolf Loos** (lós)
 - **Adolf Ziegler** (cígler)
 - **Agnes Martin** (egnes martin)
@@ -45,7 +44,6 @@
 - **August Rodin** (ógyst rodén)
 - **August Sander**
 - **Badiucao**
-- **Barbara Hepworth**
 - **Barbara Hepworth**
 - **Barbara Kruger**
 - **Barnett Newman**
