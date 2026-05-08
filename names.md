@@ -25,7 +25,7 @@
 - **Antoni Tàpies** (tapjes)
 - **Aristide Maillol** (majol)
 - **Arlene Raven** (árlín rejvn)
-- **Arnold Böcklin** (böklin)
+- **Arnold Böcklin** (beklin)
 - **Asger Jorn** (esgr jórn)
 - **August Sander**
 - **Barbara Hepworth**
@@ -250,7 +250,7 @@
 - **Pierre Restany** (pjér restany)
 - **Pierre Roy** (pjér rua)
 - **Piet Mondrian** (pít mondrijan)
-- **Pieter Bruegel** (pítr bröchl)
+- **Pieter Bruegel** (pítr brechl)
 - **Pipilotti Rist** (pipiloti rist)
 - **Rachel Whiteread** (wajtríd)
 - **Raffael Santi**
