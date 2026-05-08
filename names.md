@@ -1,19 +1,24 @@
 - **Aaron Siskind** (siskind)
 - **Ad Reinhardt** (rajnhart)
+- **Ad Reinhardt** (rajnhart)
 - **Adolf Loos** (lós)
 - **Adolf Ziegler** (cígler)
 - **Agnes Martin** (egnes martin)
 - **Aj Wej-Wej** (toto je český přepis, čti jak psáno, anglický přepis je Ai Weiwei)
 - **Albert Gleizes** (albér glez) 
+- **Albert Marquet** (albér marke)
 - **Albert Renger-Patzsch** (pač)
 - **Alberto Giacometti** (džakometi)
 - **Alexander Archipenko** (archypenko)
 - **Alexander Calder** (kólder)
+- **Alexander Cozens** (kouzenz)
 - **Alexander Hackenschmied** (hakenšmíd)
 - **Alexandr Rodčenko**
+- **Alfred Kubin** (kubin)
 - **Alfred Stieglitz** (stýglic)
 - **Alina Szapocznikow** (alína šapočnikov)
 - **Allan Kaprow** (keprou)
+- **Ambroise Vollard** (ambruaz volár)
 - **Andrea Mantegna** (manteňa)
 - **Andrea del Verrocchio** (verokjo)
 - **Andreas Gursky** (gursky)
@@ -26,13 +31,17 @@
 - **Anselm Kiefer** (kífr)
 - **Antoine Bourdelle** (antuán burdel)
 - **Antoine Pevsner** (antuán pevzner)
+- **Antoni Gaudí** (mikeloco)
 - **Antoni Tàpies** (tapjes)
 - **Antonio Canova**
 - **Aristide Maillol** (majol)
 - **Arlene Raven** (árlín rejvn)
 - **Arman** (armán, vlastním jménem Arman Fernandez)
 - **Arnold Böcklin** (beklin)
+- **Artemisia Gentileschi** (artemizia džentileski)
+- **Arthur Schopenhauer** (šopenhauer)
 - **Asger Jorn** (esgr jórn)
+- **August Macke** (make)
 - **August Rodin** (ógyst rodén)
 - **August Sander**
 - **Badiucao**
@@ -44,6 +53,7 @@
 - **Berlinde De Bruyckere** (berlinde d braukere)
 - **Bernd & Hilla Becher** (bernt hila bechr)
 - **Bertel Thorvaldsen**
+- **Berthe Morisot** (bert morizo)
 - **Bettina Rheims** (rens)
 - **Betty Friedan** (frýdn)
 - **Bill Viola** (vioula)
@@ -66,11 +76,13 @@
 - **Christian Boltanski** (kristijan)
 - **Christo & Jeanne-Claude** (christo, žan klód)
 - **Chuck Close**
+- **Cimabue** (cimabue)
 - **Cindy Sherman**
 - **Claude Monet** (klód mone)
 - **Cleas Oldenburg** (klejz ouldnbɜːrɡ)
 - **Clement Greenberg**
 - **Constantin Brâncuși** (brankuši)
+- **Cuno Amiet** (kuno amjé)
 - **Cyril Connolly** (siril)
 - **César** (sezar, vlastním jménem César Baldaccini, baldačini)
 - **Damien Hirst** (dejmijen)
@@ -104,9 +116,12 @@
 - **El Greco** (greko)
 - **El Lisickij**
 - **Emil Nolde**
+- **Emile (Émile) Zola** (emil zola)
 - **Emmett Williams**
 - **Enzo Cucchi** (enco kuki)
 - **Eric Fischl** (fišl)
+- **Erich Heckel** (hekl)
+- **Erna Schilling**
 - **Ernst Barlach** (barlach)
 - **Ernst Ludwig Kirchner** (kirchner)
 - **Esther Strauß**
@@ -115,6 +130,7 @@
 - **Federico Díaz**
 - **Felix Gonzalez-Torres**
 - **Ferdinand Fellner**
+- **Ferdinand Hodler**
 - **Ferdinand de Saussure** (d sosýr)
 - **Fernand Léger** (fernán ležé) 
 - **Filippo Brunelleschi** (bruneleski)
@@ -125,10 +141,13 @@
 - **Francisco Franco** (fransisko)
 - **Francisco Goya** (fransisko)
 - **Franz Kline** (klajn)
+- **Franz Marc** (mark)
 - **François Dufrene** (fransua dyfren)
 - **François Rude** (fransua ryd)
 - **Frida Kahlo** (kálo)
 - **Friedrich Nietzsche** (frýdrych nýče)
+- **Fritz Bleyl** (blajl)
+- **Gabriele Münter**
 - **Gaetano Previati**
 - **Georg Baselitz** (bazelic)
 - **George Grosz** (georg gros)
@@ -136,6 +155,7 @@
 - **George Segal** (sígl)
 - **Georges Braque** (žorž brak)
 - **Georges Mathieu** (žorž matjé)
+- **Georges Rouault** (žorž ruó)
 - **Georges Seurat** (žorž sera)
 - **Georges Vantongerloo** (žorž vantongerló)
 - **Georges de La Tour** (žorž d la túr)
@@ -163,20 +183,26 @@
 - **Han van Meegeren** (fan mégeren)
 - **Hannah Wilke** (wilki)
 - **Hans Arp**
+- **Hans Bellmer**
 - **Hans Haacke** (háke)
 - **Hans Hartung**
 - **Henri Laurens** (ánry lorán)
+- **Henri Manguin** (ánry mangén)
 - **Henri Matisse** (ánry matys)
+- **Henri Rousseau** (ánry rusó)
 - **Henri de Toulouse-Lautrec** (ánry d tulús-lotrek)
 - **Henry Flynt**
 - **Henry Moore**
 - **Herbert Marshall McLuhan** (lúen)
 - **Hermann Helmer**
 - **Hermann Nitsch** (nyč) (pozor ne Nitsche)
+- **Herwarth Walden**
 - **Hieronymus Bosch** (čte se česky, původně holandsky bos)
 - **Hippolyte Bayard** (ipolit bajár)
+- **Honoré Daumier** (onoré domjé)
 - **J. J. P. Oud** (aud)
 - **Jackson Pollock**
+- **Jacopo de' Barbari** (jákopo de barbári)
 - **Jacques Lipchitz** (žak lipšic)
 - **Jacques Mahé de la Villeglé** (žak maé d la vilglé, zkráceně Jacques Villeglé)
 - **Jacques-Germain Soufflot** (žak žermén suflo)
@@ -201,7 +227,9 @@
 - **Jenny Holzer** (houlcr)
 - **Jindřich Heisler** (hajsler)
 - **Joan Miró** (žuan miró)
+- **Johan Barthold Jongkind** (jongkind)
 - **Johann Heinrich Schulze** (hajnrich šulce)
+- **Johannes Itten**
 - **John Baldessari** (bóldesári)
 - **John Cage**
 - **John Chandler**
@@ -209,6 +237,7 @@
 - **John Coplans** (koplenz)
 - **John De Andrea** (endrea)
 - **John. F. Herschel** (pozor - Brit, ne Němec)
+- **Josef Albers**
 - **Joseph Beuys** (jozef bojs)
 - **Joseph Kosuth** (džouzef kousút)
 - **Joseph Nicéphore Niépce** (žozef nisefor njeps)
@@ -261,16 +290,20 @@
 - **Martina Mullaney** (mulény)
 - **Mary Ellen Bute** (bjút)
 - **Masaccio** (mazačo)
+- **Matthias Grünewald**
 - **Maurice Denis** (moris deni]
 - **Maurice de Vlaminck** (moris d vlamenk)
 - **Max Ernst**
+- **Max Pechstein** (pechštajn)
 - **Meret Oppenheim** (meret opnhajm)
 - **Michael Rittstein** (ritštajn)
 - **Michael Rush**
 - **Michael Snow**
 - **Michal Kindernay** (kindernaj)
+- **Michel Eugène Chevreul** (mišel ežén ševrel)
 - **Michel Foucault** (mišel fukó)
 - **Michelangelo Buonarroti** (mikelandželo)
+- **Michelozzo** (mikeloco)
 - **Mimmo Paladino**
 - **Mimmo Rotella**
 - **Minor White**
@@ -287,9 +320,12 @@
 - **Olafur Eliasson**
 - **On Kawara**
 - **Orlan** (orlán)
+- **Oskar Kokoschka** (kokoška)
 - **Ossip Zadkine** (osip zadkin)
+- **Othon Friesz** (oton fryes)
 - **Otto Dix**
 - **Otto Gutfreund** (gutfrojnd)
+- **Otto Mueller**
 - **Otto Placht**
 - **Otto Steinert** (štajnert)
 - **Pablo Picasso**
@@ -298,12 +334,16 @@
 - **Paul Cassirer** (paul kasírer)
 - **Paul Cézanne** (pól sezan)
 - **Paul Eluard** (pól elyár)
+- **Paul Fechter**
 - **Paul Gauguin** (pól gogén)
+- **Paul Klee** (paul klé)
 - **Paul Signac** (pól siňak)
 - **Paula Muhr** (múr)
 - **Peggy Guggenheim** (gugnhajm)
 - **Per Olof Ultvedt**
+- **Peter Greenaway**
 - **Peter Paul Rubens** (pétr paul rúbns)
+- **Philipp Otto Runge**
 - **Piero Manzoni** (mandzony)
 - **Piero della Francesca** (frančeska)
 - **Pierre Puvis de Chavannes** (pjér pyvi d šavan)
@@ -316,6 +356,7 @@
 - **Raffael Santi**
 - **Raoul Dufy** (raul dyfy)- **Raymond Duchamp-Villon** (remón dyšám-vijón)
 - **Raymond Hains** (remon en)
+- **Raymond Ruyer** (remón ryijé)
 - **Rembrandt van Rijn** (fan rejn)
 - **René Magritte** (magrit)
 - **Richard Estes** (ričrd estíz)
@@ -336,6 +377,7 @@
 - **Ron Mueck** (mjúek)
 - **Roy Lichtenstein** (liktnstajn)
 - **Rudolf Schwarzkogler** (švarckogler)
+- **Sahej Rahal** (sahej rahál)
 - **Salvador Dalí**
 - **Sam Taylor-Johnson** (narozená jako Sam Taylor-Wood)
 - **Samuel Fosso** (samyel foso)
@@ -357,11 +399,14 @@
 - **Steina & Woody Vasulka** (stajna vasulka) (původně Bohuslav Vašulka)
 - **Stelarc** (stelark)
 - **Stephen Shore**
+- **Stéphane Mallarmé** (stefan malarmé)
 - **Susan Sontag** (sontág)
 - **Tamara Moyzes** (mojzes)
 - **Theo van Doesburg** (fan desburch)
+- **Thomas Couture** (toma kutýr)
 - **Thomas Ruff** (ruf)
 - **Thomas Struth** (štrút)
+- **Théodore Géricault** (teodor žerikó)
 - **Tina Bara** (týna bára)
 - **Tizian** (tycyján)
 - **Tom Wesselmann** (weslmn)
@@ -369,6 +414,7 @@
 - **Toyen** (toajen)
 - **Tracey Emin**
 - **Tracey Moffatt** (mofet)
+- **Tristan Tzara** (tristan cara)
 - **Ulay** (úlaj, zkrácenina vlastního jména Frank Uwe Laysiepen)
 - **Umberto Boccioni** (bočóny)
 - **Umberto Eco** (eko)
@@ -376,6 +422,7 @@
 - **Vasilij Kandinskij** (kanďiskij) (anglický přepis: Wassily Kandinsky)
 - **Victor Burgin** (bɜːrdžin)
 - **Victor Vasarely** (vazareli)
+- **Victorine Louise Meurent** (viktorin lujíz merán)
 - **Vilmos Huszár** (vilmoš husár)
 - **Vincent van Gogh** (holandsky fan choch, česky často van gog)
 - **Vladimír Tatlin**
@@ -383,8 +430,10 @@
 - **Walter Benjamin** (valter benjamin)
 - **Walter Gropius** 
 - **Wilhelm Lehmbruck** (lémbruk)
+- **Wilhelm Worringer**
 - **Willem de Kooning** (původně holandsky kóning), americky kúning))
 - **William Henry Fox Talbot** (tálbot)
+- **William Seitz** (sajc)
 - **William Turner**
 - **Wolf Vostell** (volf fostel)
 - **Wolfgang Ramsbott**
