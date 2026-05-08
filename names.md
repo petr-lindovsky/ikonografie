@@ -1,6 +1,7 @@
 - **Aaron Siskind** (siskind)
 - **Ad Reinhardt** (rajnhart)
 - **Adolf Loos** (lós)
+- **Adolf Ziegler** (cígler)
 - **Agnes Martin** (egnes martin)
 - **Aj Wej-Wej** (toto je český přepis, čti jak psáno, anglický přepis je Ai Weiwei)
 - **Albert Gleizes** (albér glez) 
@@ -28,6 +29,7 @@
 - **Arnold Böcklin** (beklin)
 - **Asger Jorn** (esgr jórn)
 - **August Sander**
+- **Badiucao**
 - **Barbara Hepworth**
 - **Barbara Kruger**
 - **Barnett Newman**
@@ -45,6 +47,8 @@
 - **Carl G. Jung**
 - **Carolee Schneemann** (kerolí šnímn) (příjmení německého původu vyslovované anglicky)
 - **Carsten Nicolai** (karsten nikolaj)
+- **Caspar David Friedrich** (kaspar david frýdrych)
+- **Charles Baudelaire** (šárl bódlér)
 - **Charlotte Moorman** (šarlot murmn)
 - **Christian Boltanski** (kristijan)
 - **Christo & Jeanne-Claude** (christo, žan klód)
@@ -52,13 +56,16 @@
 - **Cindy Sherman**
 - **Claude Monet** (klód mone)
 - **Cleas Oldenburg** (klejz ouldnbɜːrɡ)
+- **Clement Greenberg**
 - **Constantin Brâncuși** (brankuši)
+- **Damien Hirst** (dejmijen)
 - **Dan Flavin** (flejvin)
 - **Dan Graham**
 - **Daniel Buren** (byren)
 - **Daniel-Henry Kahnweiler** (kánvajler)
 - **David Hockney**
 - **David LaChapelle** (lašapel)
+- **Denis Diderot** (deny dydro)
 - **Diane Arbus** (árbus)
 - **Diego Velázquez** (velaskes)
 - **Don Eddy**
@@ -66,6 +73,7 @@
 - **Donatello**
 - **Duane Hanson** (dwein hensn)
 - **Duccio di Buoninsegna** (dučo di buoninseňa)
+- **E. H. Gombrich** (kaspar david frýdrych)
 - **Edgar Degas** (dega)
 - **Edouard (Édouard) Manet** (eduár mane)
 - **Edvard Munch** (munk)
@@ -117,6 +125,7 @@
 - **Giovanni Battista della Porta** (džovany)
 - **Giovanni Segantini** (džovany)
 - **Giuseppe Pellizza da Volpedo** (džuzepe pelica)
+- **Grayson Perry**
 - **Gregory Crewdson**
 - **Guillaume Apollinaire** (gijóm apolinér) 
 - **Gustave Courbet** (gystáv kurbe)
@@ -282,6 +291,7 @@
 - **Sheila de Bretteville** (d bretvil)
 - **Sherrie Levine** (levín)
 - **Shirin Neshat** (širin nešat)
+- **Shlomi Yaffe** (šlomi jafé)
 - **Sigmar Polke** (zigmar polke)
 - **Sigmund Freud** (frojd)
 - **Simone de Beauvoire** (simon d bovuár)
