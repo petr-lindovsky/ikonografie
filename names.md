@@ -10,6 +10,8 @@
 - **Alexander Archipenko** (archypenko)
 - **Alexander Calder** (kólder)
 - **Alexander Hackenschmied** (hakenšmíd)
+- **Alexandr Rodčenko**
+- **Alfred Stieglitz** (stýglic)
 - **Alina Szapocznikow** (alína šapočnikov)
 - **Allan Kaprow** (keprou)
 - **Andrea Mantegna** (manteňa)
@@ -17,6 +19,7 @@
 - **Andreas Gursky** (gursky)
 - **André Breton** (breton)
 - **André Derain** (derén)
+- **Andy Goldsworthy**
 - **Andy Warhol** (wórhol)
 - **Anish Kapoor** (aniš kapúr)
 - **Anita Steckel** (stekl)
@@ -24,18 +27,25 @@
 - **Antoine Bourdelle** (antuán burdel)
 - **Antoine Pevsner** (antuán pevzner)
 - **Antoni Tàpies** (tapjes)
+- **Antonio Canova**
 - **Aristide Maillol** (majol)
 - **Arlene Raven** (árlín rejvn)
+- **Arman** (armán, vlastním jménem Arman Fernandez)
 - **Arnold Böcklin** (beklin)
 - **Asger Jorn** (esgr jórn)
+- **August Rodin** (ógyst rodén)
 - **August Sander**
 - **Badiucao**
+- **Barbara Hepworth**
 - **Barbara Hepworth**
 - **Barbara Kruger**
 - **Barnett Newman**
 - **Bart van der Leck** (fan der lek)
+- **Berlinde De Bruyckere** (berlinde d braukere)
 - **Bernd & Hilla Becher** (bernt hila bechr)
-- **Bettina Rheims** (rems)
+- **Bertel Thorvaldsen**
+- **Bettina Rheims** (rens)
+- **Betty Friedan** (frýdn)
 - **Bill Viola** (vioula)
 - **Bjarke Ingels**
 - **Bridget Riley**
@@ -48,7 +58,10 @@
 - **Carolee Schneemann** (kerolí šnímn) (příjmení německého původu vyslovované anglicky)
 - **Carsten Nicolai** (karsten nikolaj)
 - **Caspar David Friedrich** (kaspar david frýdrych)
+- **Cesare Cesarino** (čézare čezaríno)
 - **Charles Baudelaire** (šárl bódlér)
+- **Charles Saatchi** (sáči)
+- **Charles T. Tart**
 - **Charlotte Moorman** (šarlot murmn)
 - **Christian Boltanski** (kristijan)
 - **Christo & Jeanne-Claude** (christo, žan klód)
@@ -58,33 +71,43 @@
 - **Cleas Oldenburg** (klejz ouldnbɜːrɡ)
 - **Clement Greenberg**
 - **Constantin Brâncuși** (brankuši)
+- **Cyril Connolly** (siril)
+- **César** (sezar, vlastním jménem César Baldaccini, baldačini)
 - **Damien Hirst** (dejmijen)
 - **Dan Flavin** (flejvin)
 - **Dan Graham**
 - **Daniel Buren** (byren)
+- **Daniel Spoerri** (špéry)
 - **Daniel-Henry Kahnweiler** (kánvajler)
 - **David Hockney**
 - **David LaChapelle** (lašapel)
 - **Denis Diderot** (deny dydro)
+- **Dennis Oppenheim** (opnhajm)
 - **Diane Arbus** (árbus)
+- **Diego Rivera**
 - **Diego Velázquez** (velaskes)
 - **Don Eddy**
 - **Donald Judd**
 - **Donatello**
+- **Dorothea Lange** (dorotýja leng)
+- **Dorothea Tanning**
 - **Duane Hanson** (dwein hensn)
 - **Duccio di Buoninsegna** (dučo di buoninseňa)
 - **E. H. Gombrich** (kaspar david frýdrych)
 - **Edgar Degas** (dega)
 - **Edouard (Édouard) Manet** (eduár mane)
 - **Edvard Munch** (munk)
+- **Edward Hopper**
 - **Edward Ruscha** (rúšej)
+- **Edward Steichen** (stajkn)
 - **Egon Schiele** (šíle)
-- **El Greco**
+- **El Greco** (greko)
 - **El Lisickij**
 - **Emil Nolde**
 - **Emmett Williams**
 - **Enzo Cucchi** (enco kuki)
 - **Eric Fischl** (fišl)
+- **Ernst Barlach** (barlach)
 - **Ernst Ludwig Kirchner** (kirchner)
 - **Esther Strauß**
 - **Eugène Delacroix** (ežen delakrua) 
@@ -95,11 +118,15 @@
 - **Ferdinand de Saussure** (d sosýr)
 - **Fernand Léger** (fernán ležé) 
 - **Filippo Brunelleschi** (bruneleski)
+- **Filippo Marinetti**
+- **Forough Farrokhzad** (forú faróchzád)
 - **Francis Bacon**
 - **Francis Picabia** (fransis pikabja) 
 - **Francisco Franco** (fransisko)
 - **Francisco Goya** (fransisko)
 - **Franz Kline** (klajn)
+- **François Dufrene** (fransua dyfren)
+- **François Rude** (fransua ryd)
 - **Frida Kahlo** (kálo)
 - **Friedrich Nietzsche** (frýdrych nýče)
 - **Gaetano Previati**
@@ -113,12 +140,14 @@
 - **Georges Vantongerloo** (žorž vantongerló)
 - **Georges de La Tour** (žorž d la túr)
 - **Georgia O'Keeffe** (oukíf)
+- **Gerard Deschamps** (žerár dešán)
 - **Gerhard Richter**
 - **Germaine Richier** (žermén rišjé)
 - **Gerrit Rietveld** (cherit rítfelt)
 - **Gertrude & Leo Stein** (stajn)
 - **Gian Lorenzo Bernini** (džan lorenco)
 - **Gilbert & George** (gilbert)
+- **Gillian Wearing**
 - **Giorgio de Chirico** (džordžo de kýryko)
 - **Giorgione** (džordžóne)
 - **Giotto di Bondone** (džot)
@@ -136,17 +165,22 @@
 - **Hans Arp**
 - **Hans Haacke** (háke)
 - **Hans Hartung**
+- **Henri Laurens** (ánry lorán)
 - **Henri Matisse** (ánry matys)
 - **Henri de Toulouse-Lautrec** (ánry d tulús-lotrek)
 - **Henry Flynt**
 - **Henry Moore**
+- **Herbert Marshall McLuhan** (lúen)
 - **Hermann Helmer**
 - **Hermann Nitsch** (nyč) (pozor ne Nitsche)
 - **Hieronymus Bosch** (čte se česky, původně holandsky bos)
+- **Hippolyte Bayard** (ipolit bajár)
 - **J. J. P. Oud** (aud)
 - **Jackson Pollock**
+- **Jacques Lipchitz** (žak lipšic)
+- **Jacques Mahé de la Villeglé** (žak maé d la vilglé, zkráceně Jacques Villeglé)
 - **Jacques-Germain Soufflot** (žak žermén suflo)
-- **Jacques-Louis David** (žak luj david)
+- **Jacques-Louis David** (žak lui david)
 - **Jake & Dinos Chapman** (dajnos)
 - **James Ensor**
 - **James Rosenquist** (rouznkwist)
@@ -161,22 +195,26 @@
 - **Jean Tinguely** (žán tenglí)
 - **Jean-Baptiste Carpeaux** (žán batist karpó)
 - **Jean-Martin Charcot** (žán martén šarko)
-- **Jean-Michel Basquiat** (žán mišel baskja)
-- **Jeff Koons** (kúnz)
+- **Jean-Michel Basquiat** (žán mišel baskja)- **Jeff Koons** (kúnz)
 - **Jeff Wall** (wól)
 - **Jeffrey Deitch** (dajč)
+- **Jenny Holzer** (houlcr)
 - **Jindřich Heisler** (hajsler)
 - **Joan Miró** (žuan miró)
+- **Johann Heinrich Schulze** (hajnrich šulce)
 - **John Baldessari** (bóldesári)
 - **John Cage**
 - **John Chandler**
 - **John Constable**
 - **John Coplans** (koplenz)
 - **John De Andrea** (endrea)
+- **John. F. Herschel** (pozor - Brit, ne Němec)
 - **Joseph Beuys** (jozef bojs)
 - **Joseph Kosuth** (džouzef kousút)
+- **Joseph Nicéphore Niépce** (žozef nisefor njeps)
 - **Juan Gris** (chuan)
 - **Judy Chicago**
+- **Jules Dalou** (žyl dalu)
 - **Julian Schnabel** (šnejbl)
 - **June Crespo** (džún krespo)
 - **Jörg Immendorff** (jerg imndorf)
@@ -186,16 +224,24 @@
 - **Karl Schmidt-Rottluff** (šmit rotluf)
 - **Kazimir Malevič**
 - **Kees van Dongen** (kés fan dongen)
+- **Keiko Sei**
 - **Keith Haring** (hering)
 - **Kiki Smith** (kýky)
+- **Kira Perov** (kíra perov)
 - **Konrad Fischer**
+- **Kurt Schwitters** (švitrs)
+- **Käthe Kollwitz** (kete kolvic)
+- **Laura Mulvey** (lóra malvy)
 - **Lawrence Weiner** (vajner)
 - **Le Corbusier** (l korbysjé)
 - **Lee Krasner** (krazner)
 - **Leon Battista Alberti**
 - **Leonardo da Vinci** (vinči)
-- **Louis Vauxcelles** (luj vosel) 
+- **Lev Trockij**
+- **Louis Jacques Mandé Daguerre** (lui žak mande dagér)
+- **Louis Vauxcelles** (lui vosel) 
 - **Louise Bourgeois** (luíz buržua)
+- **Lucia Moholy** (lucija mohoj)
 - **Lucian Freud** (lúšn frojd)
 - **Lucio Fontana** (lúčo)
 - **Lucy Lippard**
@@ -209,8 +255,8 @@
 - **Mark Rothko** (rotkou)
 - **Mark Tobey** (touby)
 - **Marlene Dumas** (marlín dymas)
-- **Marshall McLuhan** (lúen)
 - **Martha Rosler** (rózler) (pozor ne Rösler)
+- **Martial Raysse** (marsjal res)
 - **Martin Buber** (búber) 
 - **Martina Mullaney** (mulény)
 - **Mary Ellen Bute** (bjút)
@@ -220,11 +266,13 @@
 - **Max Ernst**
 - **Meret Oppenheim** (meret opnhajm)
 - **Michael Rittstein** (ritštajn)
+- **Michael Rush**
 - **Michael Snow**
 - **Michal Kindernay** (kindernaj)
 - **Michel Foucault** (mišel fukó)
 - **Michelangelo Buonarroti** (mikelandželo)
 - **Mimmo Paladino**
+- **Mimmo Rotella**
 - **Minor White**
 - **Miriam Schapiro**
 - **Mona Hatoum** (hatúm)
@@ -239,6 +287,7 @@
 - **Olafur Eliasson**
 - **On Kawara**
 - **Orlan** (orlán)
+- **Ossip Zadkine** (osip zadkin)
 - **Otto Dix**
 - **Otto Gutfreund** (gutfrojnd)
 - **Otto Placht**
@@ -246,7 +295,9 @@
 - **Pablo Picasso**
 - **Paolo Uccello** (učelo)
 - **Patricia Karg** (patrisja)
+- **Paul Cassirer** (paul kasírer)
 - **Paul Cézanne** (pól sezan)
+- **Paul Eluard** (pól elyár)
 - **Paul Gauguin** (pól gogén)
 - **Paul Signac** (pól siňak)
 - **Paula Muhr** (múr)
@@ -263,21 +314,25 @@
 - **Pipilotti Rist** (pipiloti rist)
 - **Rachel Whiteread** (wajtríd)
 - **Raffael Santi**
-- **Raoul Dufy** (raul dyfy)
-- **Raymond Duchamp-Villon** (remón dyšám-vijón)
+- **Raoul Dufy** (raul dyfy)- **Raymond Duchamp-Villon** (remón dyšám-vijón)
+- **Raymond Hains** (remon en)
 - **Rembrandt van Rijn** (fan rejn)
 - **René Magritte** (magrit)
 - **Richard Estes** (ričrd estíz)
 - **Richard Hamilton**
+- **Richard Long**
 - **Richard Prince** (ričrd prins)
 - **Richard Serra**
 - **Robert & Sonia Delauney** (robér delone)
+- **Robert Cottingham**
 - **Robert Indiana**
 - **Robert Mapplethorpe**
 - **Robert Morris**
 - **Robert Motherwell**
 - **Robert Rauschenberg** (raušnbɜːrɡ)
 - **Robert Smithson**
+- **Robert Wiene** (víne)
+- **Roland Barthes** (rolán bart)
 - **Ron Mueck** (mjúek)
 - **Roy Lichtenstein** (liktnstajn)
 - **Rudolf Schwarzkogler** (švarckogler)
@@ -286,6 +341,7 @@
 - **Samuel Fosso** (samyel foso)
 - **Sandro Chia** (kia)
 - **Sarah Charlesworth**
+- **Savita Halappanavar** (savíta halapánavar - hindská výslovnostforú)
 - **Sebastião Salgado** (sebastyjau salgadu)
 - **Serge Bramly** (serž bramly)
 - **Sheila de Bretteville** (d bretvil)
@@ -301,8 +357,8 @@
 - **Steina & Woody Vasulka** (stajna vasulka) (původně Bohuslav Vašulka)
 - **Stelarc** (stelark)
 - **Stephen Shore**
+- **Susan Sontag** (sontág)
 - **Tamara Moyzes** (mojzes)
-- **Tapp und Task Kino**
 - **Theo van Doesburg** (fan desburch)
 - **Thomas Ruff** (ruf)
 - **Thomas Struth** (štrút)
@@ -314,6 +370,7 @@
 - **Tracey Emin**
 - **Tracey Moffatt** (mofet)
 - **Ulay** (úlaj, zkrácenina vlastního jména Frank Uwe Laysiepen)
+- **Umberto Boccioni** (bočóny)
 - **Umberto Eco** (eko)
 - **Valie Export** (váli export)
 - **Vasilij Kandinskij** (kanďiskij) (anglický přepis: Wassily Kandinsky)
@@ -323,10 +380,14 @@
 - **Vincent van Gogh** (holandsky fan choch, česky často van gog)
 - **Vladimír Tatlin**
 - **Walker Evans**
+- **Walter Benjamin** (valter benjamin)
 - **Walter Gropius** 
+- **Wilhelm Lehmbruck** (lémbruk)
 - **Willem de Kooning** (původně holandsky kóning), americky kúning))
+- **William Henry Fox Talbot** (tálbot)
 - **William Turner**
 - **Wolf Vostell** (volf fostel)
+- **Wolfgang Ramsbott**
 - **Wolfgang Tillmans**
 - **Wols** (vols)
 - **Yoko Ono**
