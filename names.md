@@ -67,6 +67,7 @@
 - **Duane Hanson** (dwein hensn)
 - **Duccio di Buoninsegna** (dučo di buoninseňa)
 - **Edgar Degas** (dega)
+- **Edouard (Édouard) Manet** (eduár mane)
 - **Edvard Munch** (munk)
 - **Edward Ruscha** (rúšej)
 - **Egon Schiele** (šíle)
@@ -321,4 +322,3 @@
 - **Yoko Ono**
 - **Yves Klein** (iv klén) (zhruba)
 - **Zaha Hadid**
-- **Édouard Manet** (eduár mane)
