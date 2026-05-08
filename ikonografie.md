@@ -64,7 +64,7 @@ Křesťané zpočátku neztvárnovali Krista přímo – hrozilo pronásledován
 - **Vinný keř:** Kristus říká „Já jsem vinný kmen, vy jste ratolesti" (Jan 15,5). Víno = eucharistie, Kristova krev. Dekorativní motiv vinice přechází z antického umění přímo do křesťanských bazilik.
 - **Dobrý pastýř:** Katakombové fresky zobrazují mladého muže nesoucího ovci na ramenou – vizuálně totožného s antickým motivem *Hermés Krioforos* (Hermés nesoucí berana). Křesťané přebírají pohanský obraz a přeplňují ho novým smyslem: pastýř = Kristus, ovce = věřící. Jde o jeden z nejstarších dokladů toho, jak křesťanská ikonografie „recykluje" antiku.
 
-### Pozdní antika a rané středověko (4.–6. stol.)
+### Pozdní antika a raný středověk (4.–6. stol.)
 Po Ediktu milánském (313) se křesťanské umění stává veřejným. Vznikají **baziliky** a mozaikové cykly. Kristus přebírá rysy říšského panovníka: **Pantokrator** (Vládce všeho) – frontální, trůnící, s evangeliářem. Mozaiky v Ravenně ([San Vitale](https://cs.wikipedia.org/wiki/Bazilika_San_Vitale), [Sant'Apollinare](https://en.wikipedia.org/wiki/Basilica_of_Sant%27Apollinare_in_Classe)) jsou vrcholným příkladem.
 
 #### Detaily
