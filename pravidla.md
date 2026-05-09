@@ -70,11 +70,13 @@
 - **au/eau** se vyslovuje jako **o**
   - např. aug se vyslovuje jako óg: **August Rodin** (ógyst rodén)
   - např. beauv se vyslovuje jako bov: **Simone de Beauvoire** (simon d bovuár)
+- **en** se vyslovuje (většinou) jako nosové a, přepisuju jako **án**
+  - např. **Henri Matisse** (ánry matys)
 - **eu** se vyslovuje jako německé ö, přepisuju jako **e**
   - např. **Eugène Delacroix** (ežen delakrua)
 - **ill** se vyslovuje jako **ij**
    - např. **Camille Pissarro** (kamij pisaro)
-- **in/im/en** na konci slabiky se vyslovuje jako nosové e, přepisuju jako **én**
+- **in/im** na konci slabiky se vyslovuje jako nosové e, přepisuju jako **én**
   - např. din se vyslovuje jako dén: **August Rodin** (ógyst rodén)
 - **oi/oy** se vyslovuje jako **ua**
   - např. toine se vyslovuje jako tuan: **Antoine Bourdelle** (antuan burdel)
