@@ -2,59 +2,60 @@
 
 ## Italština
 - zdvojení souhlásky při výslovnosti ignoruj (pro zjednodušení)
-- c
-  - c se vyslovuje jako k, pokud nenásleduje e nebo i
-- ch se vyslovuje jako k
-    - např. **Artemisia Gentileschi** (artemizia džentileski)
-  - c se vyslovuje jako č, pokud následuje e nebo i
+- **c**
+  - **c** se vyslovuje jako **k**, pokud nenásleduje e nebo i
+  - **ch** se vyslovuje jako **k**
+  - např. **Artemisia Gentileschi** (artemizia džentileski)
+  - **c** se vyslovuje jako **č**, pokud následuje e nebo i
     - např. **Leonardo da Vinci** (vinči)
-  - cia/cio/ciu se vyslovuje jako ča/čo/ču (ne jako čia/čio/čiu)
+  - **cia/cio/ciu** se vyslovuje jako **ča/čo/ču** (ne jako čia/čio/čiu)
     - např. **Lucio Fontana** (lúčo)
-- g
-  - g se vyslovuje jako g, pokud nenásleduje e nebo i
-  - gh se vyslovuje jako g
+- **g**
+  - **g** se vyslovuje jako **g**, pokud nenásleduje e nebo i
+  - **gh** se vyslovuje jako **g**
     - např. **spaghetti** (spageti)
-  - g se vyslovuje jako dž, pokud následuje e nebo i
+  - **g** se vyslovuje jako **dž**, pokud následuje e nebo i
     - např. **Artemisia Gentileschi** (artemizia džentileski) 
-  - gia/gio/giu se vyslovuje jako dža/džo/džu (ne jako džia/džio/džiu)
+  - **gia/gio/giu** se vyslovuje jako **dža/džo/džu** (ne jako džia/džio/džiu)
     - např. **Giorgione** (džordžóne)
-  - gn se vyslovuje ň: **Andrea Mantegna** (manteňa)
-- h se nevyslovuje (ale může ovlivnit výslovnost předcházejícího c nebo g, viz výše)
-- s mezi samohláskami s vyslovuje jako z
+  - **gn** se vyslovuje **ň**: **Andrea Mantegna** (manteňa)
+- **h** se nevyslovuje (ale může ovlivnit výslovnost předcházejícího c nebo g, viz výše)
+- **s** mezi samohláskami se vyslovuje jako **z**
     - např. misia se vyslovuje mizia: **Artemisia Gentileschi** (artemizia džentileski)
-- z se vyslovuje jako c (a někdy jako dz)
+- **z** se vyslovuje jako **c** (a někdy jako **dz**)
     - např. **Gian Lorenzo Bernini** (džan lorenco)
+    - např. **Piero Manzoni** (mandzony)
 
 ## Francouzština
 ### Souhlásky
-- c
-  - c se vyslovuje jako k, pokud nenásleduje e nebo i
-  - ch se vyslovuje jako š
+- **c**
+  - **c** se vyslovuje jako **k**, pokud nenásleduje e nebo i
+  - **ch** se vyslovuje jako **š**
     - např. **David LaChapelle** (lašapel)
-  - c se vyslovuje jako s, pokud následuje e nebo i
+  - **c** se vyslovuje jako **s**, pokud následuje e nebo i
       - např. **César** (sezar)
-  - ç se vyslovuje jako s
+  - **ç** se vyslovuje jako **s**
       - např: **François Dufrene** (fransua dyfren)
-- g
-  - g se vyslovuje jako g, pokud nenásleduje i nebo e
-  - g se vyslovuje jako ž, pokud následuje e nebo i
+- **g**
+  - **g** se vyslovuje jako **g**, pokud nenásleduje i nebo e
+  - **g** se vyslovuje jako **ž**, pokud následuje e nebo i
     - např. gène se vyslovuje jako žen: **Eugène Delacroix** (ežen delakrua)
-  - gue/gui se vyslovuje jako ge/gi (ne jako gue/gui)
+  - **gue/gui** se vyslovuje jako **ge/gi** (ne jako gue/gui)
     - např. **Guillaume Apollinaire** (gijóm apolinér)
-  - gn se vyslovuje ň
+  - **gn** se vyslovuje **ň**
     - např. **Avignon** (aviňon)
-- h se nevyslovuje
+- **h** se nevyslovuje
   - např. **Le Havre** (l ávr)
-- j se vyslovuje jako ž
+- **j** se vyslovuje jako **ž**
   - např. **Jules Dalou** (žyl dalu)
-- ph se vyslovuje jako f
+- **ph** se vyslovuje jako **f**
   - **Niki de Saint-Phalle** (niki d sén fal)
-- qu se vyslovuje jako k
+- **qu** se vyslovuje jako **k**
   - např: **Georges Braque** (žorž brak)
-- s mezi samohláskami se vyslovuje jako z
-- tion na konci se vyslovuje sjón
+- **s** mezi samohláskami se vyslovuje jako **z**
+- **tion** na konci se vyslovuje **sjón**
   - např. **Abstraction-Création** (abstraksjón kreasjón)
-- na konci slova se obvykle nevyslovuje: d, t, s, x, lt, ps, r (pokud ho předchází e)
+- na konci slova se obvykle nevyslovuje: **d, t, s, x, lt, ps, r** (pokud ho předchází e)
   - např. d: **Arthur Rimbaud** (artyr renbó)
   - např. t: **Albert Marquet** (albér marke)
   - např. s: **Edgar Degas** (dega)
@@ -63,71 +64,69 @@
   - např. ps: **Marcel Duchamp** (marsel dyšám)
   - např. r: **Germaine Richier** (žermén rišjé)
 ### Samohlásky
-- ai/ay se vyslovuje jako e
+- **ai/ay** se vyslovuje jako **e**
   - např. linaire se vyslovuje jako inér: **Guillaume Apollinaire** (gijóm apolinér)
-- au/eau se vyslovuje jako o
+- **au/eau** se vyslovuje jako **o**
   - např. aug se vyslovuje jako óg: **August Rodin** (ógyst rodén)
   - např. beauv se vyslovuje jako bov: **Simone de Beauvoire** (simon d bovuár)
-- eu se vyslovuje jako německé ö, přepisuju jako e
+- **eu** se vyslovuje jako německé ö, přepisuju jako **e**
   - např. **Eugène Delacroix** (ežen delakrua)
-- ill se vyslovuje jako ij
+- **ill** se vyslovuje jako **ij**
    - např. **Camille Pissarro** (kamij pisaro)
-- in/im/en na konci slabiky se vyslovuje jako nosové e, přepisuju jako én
+- **in/im/en** na konci slabiky se vyslovuje jako nosové e, přepisuju jako **én**
   - např. din se vyslovuje jako dén: **August Rodin** (ógyst rodén)
-- oi/oy se vyslovuje jako ua
+- **oi/oy** se vyslovuje jako **ua**
   - např. toine se vyslovuje jako tuan: **Antoine Bourdelle** (antuán burdel)
-- ou se vyslovuje jako u
+- **ou** se vyslovuje jako **u**
   - např. bour se vyslovuje jako bur: **Antoine Bourdelle** (antuán burdel)
-- u se vyslovuje jako německé ü, přepisuju jako y
+- **u** se vyslovuje jako německé ü, přepisuju jako **y**
   - např. gust se vyslovuje jako gyst: **August Rodin** (ógyst rodén) 
-- ui/uy se vyslovuje jako üi, přepisuju jako yji
+- **ui/uy** se vyslovuje jako üi, přepisuju jako **yji**
   - např. **Edouard Vuillard** (eduár vyijár)
-- na konci slova se nevyslovuje: e
+- na konci slova se nevyslovuje: **e**
   - např. **Antoine Bourdelle** (antuán burdel)
 
 ## Španělština
-- c
-  - c se vyslovuje k, pokud nenásleduje e nebo i
-  - c se vyslovuje (zhruba) jako s, pokud následuje e nebo i
+- **c**
+  - **c** se vyslovuje **k**, pokud nenásleduje e nebo i
+  - **c** se vyslovuje (zhruba) jako **s**, pokud následuje e nebo i
     - např. cisco se vyslovje jako sisko v **Francisco Goya** (fransisko)
-  - ch se vyslovuje jako č
+  - **ch** se vyslovuje jako **č**
     - např. **machismo** (mačismo)
-- g
-  - g se vyslovuje jako g, pokud nenásleduje e nebo i
-  - g se vyslovuje jako ch, pokud následuje e nebo i
+- **g**
+  - **g** se vyslovuje jako **g**, pokud nenásleduje e nebo i
+  - **g** se vyslovuje jako **ch**, pokud následuje e nebo i
     - např. **Jorge** (chorche)
-  - gue/gui se vyslovuje jako ge/gi (ne jako gue/gui)
+  - **gue/gui** se vyslovuje jako **ge/gi** (ne jako gue/gui)
     - např. **Guernica** (gernika)
-- h se nevyslovuje
+- **h** se nevyslovuje
   - např. **Frida Kahlo** (kálo)
-- j se vyslovuje jako ch
+- **j** se vyslovuje jako **ch**
   - např. **Juan Gris** (chuan)
-- ñ (s vlnkou) se vyslovuje jako ň
+- **ñ** (s vlnkou) se vyslovuje jako **ň**
   - např. **Luis Buñuel** (buňuel)
-- ill se vyslovuje jako j
+- **ill** se vyslovuje jako **ij**
   - např. **Sevilla** (sevija)
 
 ## Holandština (a její dialekt vlámština)
-- g se vyslovuje jako ch (pokud mu nepředchází n)
+- **g** se vyslovuje jako **h** (pokud mu nepředchází n)
   - např. **Gerrit Rietveld** (cherit rítfelt)
-- v se vyslovuje jako f (zhruba)
+- **v** se vyslovuje jako **f** (zhruba)
   - např. **Jan Vermeer van Delft** (jan fermér fan delft)
-- aa/ee/oo se vyslovuje jako á/é/ó
+- **aa/ee/oo** se vyslovuje jako **á/é/ó**
   - např. meer se vyslovuje jako é: **Jan Vermeer van Delft** (jan fermér fan delft)
-- ie se vyslovuje jako í
+- **ie** se vyslovuje jako **í**
   - např. **Gerrit Rietveld** (cherit rítfelt)
-- ij se vyslovuje jako ej
+- **ij** se vyslovuje jako **ej**
   - např. **De Stijl** (d stejl)
-- ou se vyslovuje jako au
-  - např. **J. J. P. Oud** (aud)
-- uy se vyslovuje (zhruba) jako au: **Berlinde De Bruyckere** (berlinde d braukere)
+- **uy** se vyslovuje (zhruba) jako **au**: **Berlinde De Bruyckere** (berlinde d braukere)
 
 ## Maďarština
-- gy se vyslovuje jako ď
+- **gy** se vyslovuje jako **ď**
   - např. **László Moholy-Nagy** (lásló mohoj naď)
-- ly se vyslovuje jako j
+- **ly** se vyslovuje jako **j**
   - např. **László Moholy-Nagy** (lásló mohoj naď)
-- s se vyslovuje jako š, pokud nenásleduje z
+- **s** se vyslovuje jako **š**, pokud nenásleduje z
   - např. mos se vyslovuje jako moš: **Vilmos Huszár** (vilmoš husár)
-- sz se vyslovuje jako s
+- **sz** se vyslovuje jako **s**
   - např. szár se vyslovuje jako sár: **Vilmos Huszár** (vilmoš husár)
