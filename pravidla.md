@@ -101,7 +101,7 @@
   - **gue/gui** se vyslovuje jako **ge/gi** (ne jako gue/gui)
     - např. **Guernica** (gernika)
 - **h** se nevyslovuje
-  - např. **Frida Kahlo** (kálo)
+  - např. **Horta de Ebro** (orta de ebro)
 - **j** se vyslovuje jako **ch**
   - např. **Juan Gris** (chuan)
 - **ñ** (s vlnkou) se vyslovuje jako **ň**
