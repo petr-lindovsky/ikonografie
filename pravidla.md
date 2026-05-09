@@ -54,13 +54,14 @@
 - s mezi samohláskami se vyslovuje jako z
 - tion na konci se vyslovuje sjón
   - např. **Abstraction-Création** (abstraksjón kreasjón)
-- na konci slova se obvykle nevyslovuje: d, t, s, x, lt, ps
+- na konci slova se obvykle nevyslovuje: d, t, s, x, lt, ps, r (pokud ho předchází e)
   - např. d: **Arthur Rimbaud** (artyr renbó)
   - např. t: **Albert Marquet** (albér marke)
   - např. s: **Edgar Degas** (dega)
   - např. x: **Eugène Delacroix** (ežen delakrua)
   - např. lt: **Michel Foucault** (mišel fukó)
   - např. ps: **Marcel Duchamp** (marsel dyšám)
+  - např. r: **Germaine Richier** (žermén rišjé)
 ### Samohlásky
 - ai/ay se vyslovuje jako e
   - např. linaire se vyslovuje jako inér: **Guillaume Apollinaire** (gijóm apolinér)
