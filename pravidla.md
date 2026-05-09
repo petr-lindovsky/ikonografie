@@ -77,9 +77,9 @@
 - **in/im/en** na konci slabiky se vyslovuje jako nosové e, přepisuju jako **én**
   - např. din se vyslovuje jako dén: **August Rodin** (ógyst rodén)
 - **oi/oy** se vyslovuje jako **ua**
-  - např. toine se vyslovuje jako tuan: **Antoine Bourdelle** (antuán burdel)
+  - např. toine se vyslovuje jako tuan: **Antoine Bourdelle** (antuan burdel)
 - **ou** se vyslovuje jako **u**
-  - např. bour se vyslovuje jako bur: **Antoine Bourdelle** (antuán burdel)
+  - např. bour se vyslovuje jako bur: **Antoine Bourdelle** (antuan burdel)
 - **u** se vyslovuje jako německé ü, přepisuju jako **y**
   - např. gust se vyslovuje jako gyst: **August Rodin** (ógyst rodén) 
 - **ui/uy** se vyslovuje jako üi, přepisuju jako **yji**
