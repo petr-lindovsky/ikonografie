@@ -110,7 +110,7 @@
   - např. **Sevilla** (sevija)
 
 ## Holandština (a její dialekt vlámština)
-- **g** se vyslovuje jako **h** (pokud mu nepředchází n)
+- **g** se vyslovuje jako **ch** (pokud mu nepředchází n)
   - např. **Gerrit Rietveld** (cherit rítfelt)
 - **v** se vyslovuje jako **f** (zhruba)
   - např. **Jan Vermeer van Delft** (jan fermér fan delft)
