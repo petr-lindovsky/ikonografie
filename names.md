@@ -20,7 +20,6 @@
 - **Ambroise Vollard** (ambruaz volár)
 - **Andrea Mantegna** (manteňa)
 - **Andrea del Verrocchio** (verokjo)
-- **Andrea del Verrocchio** (verokjo)
 - **Andreas Gursky** (gursky)
 - **André Breton** (breton)
 - **André Derain** (derén)
@@ -30,8 +29,8 @@
 - **Anish Kapoor** (aniš kapúr)
 - **Anita Steckel** (stekl)
 - **Anselm Kiefer** (kífr)
-- **Antoine Bourdelle** (antuán burdel)
-- **Antoine Pevsner** (antuán pevzner)
+- **Antoine Bourdelle** (antuan burdel)
+- **Antoine Pevsner** (antuan pevzner)
 - **Antoni Gaudí** (mikeloco)
 - **Antoni Tàpies** (tapjes)
 - **Antonio Canova**
@@ -51,7 +50,7 @@
 - **Barbara Kruger**
 - **Barnett Newman**
 - **Bart van der Leck** (fan der lek)
-- **Benjamin Péret** (banžamén peré)
+- **Benjamin Péret** (benžamén peré)
 - **Berlinde De Bruyckere** (berlinde d braukere)
 - **Bernd & Hilla Becher** (bernt hila bechr)
 - **Bertel Thorvaldsen**
@@ -137,7 +136,7 @@
 - **Ferdinand Fellner**
 - **Ferdinand Hodler**
 - **Ferdinand de Saussure** (d sosýr)
-- **Fernand Léger** (fernán ležé) 
+- **Fernand Léger** (fernán ležé)
 - **Filippo Brunelleschi** (bruneleski)
 - **Filippo Marinetti**
 - **Forough Farrokhzad** (forú faróchzád)
@@ -225,19 +224,20 @@
 - **Jan van Eyck** (fan ejk)
 - **Jasper Johns**
 - **Jean Auguste Dominique Ingres** (žán ógyst dominik éngr)
-- **Jean Cocteauc** (žán koktó)
+- **Jean Cocteau** (žán koktó)
 - **Jean Dubuffet** (žán dybyfe)
 - **Jean Fautrier** (žán fotrije)
 - **Jean Metzinger** (žán mecenger) 
 - **Jean Tinguely** (žán tenglí)
 - **Jean-Baptiste Carpeaux** (žán batist karpó)
 - **Jean-Martin Charcot** (žán martén šarko)
-- **Jean-Michel Basquiat** (žán mišel baskja)- **Jeff Koons** (kúnz)
+- **Jean-Michel Basquiat** (žán mišel baskja)
+- **Jeff Koons** (kúnz)
 - **Jeff Wall** (wól)
 - **Jeffrey Deitch** (dajč)
 - **Jenny Holzer** (houlcr)
 - **Jindřich Heisler** (hajsler)
-- **Joan Miró** (žuan miró)
+- **Joan Miró** (žuan miró, katalánská výslovnost j)
 - **Johan Barthold Jongkind** (jongkind)
 - **Johann Heinrich Schulze** (hajnrich šulce)
 - **Johannes Itten**
@@ -247,7 +247,7 @@
 - **John Constable**
 - **John Coplans** (koplenz)
 - **John De Andrea** (endrea)
-- **John. F. Herschel** (pozor - Brit, ne Němec)
+- **John F. Herschel**
 - **Josef Albers**
 - **Josef Breuer** (brojer)
 - **Joseph Beuys** (jozef bojs)
@@ -362,7 +362,6 @@
 - **Paul Klee** (paul klé)
 - **Paul Signac** (pól siňak)
 - **Paul Verlaine** (pol verlen)
-- **Paul Verlaine** (pol verlen)
 - **Paula Muhr** (múr)
 - **Peggy Guggenheim** (gugnhajm)
 - **Per Olof Ultvedt**
@@ -382,7 +381,8 @@
 - **Pipilotti Rist** (pipiloti rist)
 - **Rachel Whiteread** (wajtríd)
 - **Raffael Santi**
-- **Raoul Dufy** (raul dyfy)- **Raymond Duchamp-Villon** (remón dyšám-vijón)
+- **Raoul Dufy** (raul dyfy)
+- **Raymond Duchamp-Villon** (remón dyšám-vijón)
 - **Raymond Hains** (remon en)
 - **Raymond Queneau** (remón kenó)
 - **Raymond Ruyer** (remón ryijé)
