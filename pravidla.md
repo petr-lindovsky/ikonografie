@@ -53,6 +53,7 @@
 - **qu** se vyslovuje jako **k**
   - např: **Georges Braque** (žorž brak)
 - **s** mezi samohláskami se vyslovuje jako **z**
+  - např. **Berthe Morisot** (bert morizo)
 - **tion** na konci se vyslovuje **sjón**
   - např. **Abstraction-Création** (abstraksjón kreasjón)
 - na konci slova se obvykle nevyslovuje: **d, t, s, x, lt, ps, r** (pokud ho předchází e)
