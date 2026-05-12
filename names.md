@@ -329,7 +329,7 @@
 - **Minor White**
 - **Miriam Schapiro**
 - **Mona Hatoum** (hatúm)
-- **Nam June Pak** (nám džún pajk)
+- **Nam June Paik** (nám džún pajk)
 - **Nan Goldin**
 - **Natalia Gončarovová**
 - **Naum Gabo** (naum gabo)

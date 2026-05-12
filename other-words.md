@@ -10,7 +10,7 @@
 - **Boulevard des Capucins** (bulvár de kapysen - znamená to Bulvár kapucínů)
 - **Brancaccio** (brankačo)
 - **Chartres** (šártr)
-- **Chauvet** (šove0
+- **Chauvet** (šove)
 - **Cloisonismus** (kluazionizmus)
 - **Corps Étranger** (kór etranžé, znamená to Cizí tělo)
 - **De Stijl** (d stejl)
