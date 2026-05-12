@@ -424,7 +424,7 @@
 - **Shlomi Yaffe** (šlomi jafé)
 - **Sigmar Polke** (zigmar polke)
 - **Sigmund Freud** (frojd)
-- **Simone de Beauvoire** (simon d bovuár)
+- **Simone de Beauvoir** (simon d bovuár)
 - **Sol LeWitt**
 - **Sonia & Robert Delaunay** (robér delone)
 - **Sophie Taeuber-Arp** (sofi tojbr)

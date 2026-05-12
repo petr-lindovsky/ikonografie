@@ -69,7 +69,7 @@
   - např. linaire se vyslovuje jako inér: **Guillaume Apollinaire** (gijóm apolinér)
 - **au/eau** se vyslovuje jako **o**
   - např. aug se vyslovuje jako óg: **August Rodin** (ógyst rodén)
-  - např. beauv se vyslovuje jako bov: **Simone de Beauvoire** (simon d bovuár)
+  - např. beauv se vyslovuje jako bov: **Simone de Beauvoir** (simon d bovuár)
 - **en** na konci slabiky se vyslovuje (většinou) jako nosové a, přepisuju jako **án**
   - např. **Henri Matisse** (ánry matys)
 - **eu** se vyslovuje jako německé ö, přepisuju jako **e**
