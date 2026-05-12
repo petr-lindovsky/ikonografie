@@ -56,13 +56,13 @@
   - např. **Berthe Morisot** (bert morizo)
 - **tion** na konci se vyslovuje **sjón**
   - např. **Abstraction-Création** (abstraksjón kreasjón)
-- na konci slova se obvykle nevyslovuje: **d, t, s, x, lt, ps, r** (pokud ho předchází e)
+- na konci slova se obvykle nevyslovuje: **d, t, s, x, lt, p, ps, r** (pokud ho předchází e)
   - např. d: **Arthur Rimbaud** (artyr renbó)
   - např. t: **Albert Marquet** (albér marke)
   - např. s: **Edgar Degas** (dega)
   - např. x: **Eugène Delacroix** (ežen delakrua)
   - např. lt: **Michel Foucault** (mišel fukó)
-  - např. ps: **Marcel Duchamp** (marsel dyšám)
+  - např. p: **Marcel Duchamp** (marsel dyšám)
   - např. r: **Germaine Richier** (žermén rišjé)
 ### Samohlásky
 - **ai/ay** se vyslovuje jako **e**
